@@ -1,7 +1,7 @@
 ### Installation
 * `git clone https://github.com/nabs23/laravelbase.git`
 
-* `cd acl`
+* `cd laravelbase`
 
 * `composer install`
 
